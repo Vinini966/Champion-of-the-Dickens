@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 161b2f9e752311143a8e1bed0261e837
+  - enabled: 1
+    path: Assets/Scenes/TitleTest.unity
+    guid: fe3c9c6f2e33faa4a915e9e2aa39d494
+  - enabled: 0
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 2fcafcc4cce433142b602122fb954286
+  - enabled: 0
+    path: Assets/Scenes/VinTestScene.unity
+    guid: 54d87ef49e1d39a49bc9481dbd47406e
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 55a06664e0a7a5c439bbbda27e5e7372
+  - enabled: 1
+    path: Assets/Scenes/Pause.unity
+    guid: b18c943542d6fdb478c6e90c991da104
+  - enabled: 0
+    path: Assets/Scenes/Game Over.unity
+    guid: bff17a191f1410b4e9b7f9511dfc3f7b
+  - enabled: 0
+    path: Assets/Scenes/StoryThusFar.unity
+    guid: 822f27b9c543389469eeae5b2c330183
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: e7a9789c6411e2e4c8c49d6ee6c25bcb
+  m_configObjects: {}
